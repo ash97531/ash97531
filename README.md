@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter project
-- 🌱 I’m currently learning Flutter
+- 🔭 Android, Web Developer
+- 🌱 I’m currently working on Flutter project
 - 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
